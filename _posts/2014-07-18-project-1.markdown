@@ -5,7 +5,7 @@ date: 2014-07-18
 img: 1170-R1-018.jpg
 alt: image-alt
 project-date: April 2021
-
+gallery: https://www.behance.net/gallery/50156187/Templo-La-Natividad-del-Senor-Vicam-Pueblo
 category: Fotografía análoga
 description: Proyecto de exploración urbana regional.
 ---
