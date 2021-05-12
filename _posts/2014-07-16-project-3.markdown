@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Octubre 2020.
 category: Web Development
 gallery: https://www.behance.net/portfolio/editor?project_id=119390941
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Concepto de ilustración digital discográfica.
 ---
