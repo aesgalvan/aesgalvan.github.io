@@ -5,7 +5,7 @@ date: 2021-11-27
 img: Portada.png
 alt: image-alt
 project-date: Noviembre 2020.
+gallery: https://www.behance.net/gallery/119389365/Diseno-editorial
 category: Diseño editorial. 
-
 description: Diseño editorial con enfoque en diseño de revista y periódico. 
 ---
