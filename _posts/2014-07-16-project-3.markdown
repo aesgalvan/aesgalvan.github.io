@@ -5,7 +5,7 @@ date: 2020-10-20
 img: Portada dayglow.png
 alt: image-alt
 project-date: Octubre 2020.
-category: Web Development
+category: Ilustración discográfica. 
 gallery: https://www.behance.net/portfolio/editor?project_id=119390941
 description: Concepto de ilustración digital discográfica.
 ---
