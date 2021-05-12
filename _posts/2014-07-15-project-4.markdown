@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2020-12-05
+img: Portada postal.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: Diciembre 2020.
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+gallery: https://www.behance.net/gallery/119392143/Postal-ilustracion-digital
+description: Concepto de postal digital basándome en fotografías de mi agrado y persona. 
 ---
